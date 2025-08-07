@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Executar Cliente",
+            "request": "launch",
+            "mainClass": "memento.Cliente",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}/bin"
+            ]
+        }
+    ]
+}
